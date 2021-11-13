@@ -4,5 +4,5 @@ GitHub es una forja para alojar proyectos utilizando el sistema de control de ve
 
 *Youtube video:*
 
-[GitHub Curso Practico](https://www.youtube.com/watch?v=HiXLkL42tMU&t=1224s)
+[Uso de Git Hub TENDENCIAS](https://youtu.be/bH4YQRqk2fU)
 
